@@ -26,6 +26,8 @@ I spent about 4 years at O'Reilly Media Inc doing almost every aspect of web dev
 From ETLs, to writing one off Ruby scripts to upload their entire catalog to AWS and then verify it was correct.
 
 I didn't study web development in college. I learned how to translate my neighbor's parent’s computing framework (for hotel reservations systems before there was an internet) company’s help files from their internal markup to HTML before Netscape hit version 4. And I did all by myself with minimal help learning the language (a variant of BASIC).
+http://imgur.com/g0zLgcs
+
 
 I am 35 now, so I was young then.
 
@@ -48,3 +50,8 @@ This project will always try to adopt the latest greatest, even if the whole pro
 And hey just say hi if you want to hear some fun stories about my life :D
 
 See you next time Space Cowboy…
+
+
+P.S. I got 15 years of reading todo... so send suggestions.
+This is my library after I raided it 
+![](https://raw.githubusercontent.com/morio/PersonalLibrary/master/Photo%20on%206-16-17%20at%2011.11%20AM.jpg)
